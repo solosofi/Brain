@@ -1,0 +1,29 @@
+# Core dependencies
+python>=3.8
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipywidgets>=7.6.0
+
+# Symbolic reasoning
+pyswip>=0.2.10  # Python interface to SWI-Prolog
+
+# Knowledge representation
+networkx>=2.6.0  # For knowledge graphs
+pyvis>=0.1.9    # Network visualization
+
+# Machine learning integration
+torch>=1.9.0    # For neural network components
+transformers>=4.9.0  # For NLP tasks and Gemma integration
+
+# Testing and development
+pytest>=6.2.5
+black>=21.6b0   # Code formatting
+flake8>=3.9.0   # Linting
+
+# Documentation
+sphinx>=4.0.0
